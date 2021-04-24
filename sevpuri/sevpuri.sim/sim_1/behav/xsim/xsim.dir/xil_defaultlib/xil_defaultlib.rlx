@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+G:/sevpuri/sevpuri.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+G:/sevpuri/sevpuri.srcs/sim_1/new/bin_tb.sv,1618990970,systemVerilog,,,,bin_tb,,,,,,,,
+G:/sevpuri/sevpuri.srcs/sources_1/new/bin.sv,1619269101,systemVerilog,,G:/sevpuri/sevpuri.srcs/sources_1/new/top.sv,,bin,,,,,,,,
+G:/sevpuri/sevpuri.srcs/sources_1/new/top.sv,1618990174,systemVerilog,,G:/sevpuri/sevpuri.srcs/sim_1/new/bin_tb.sv,,top,,,,,,,,
